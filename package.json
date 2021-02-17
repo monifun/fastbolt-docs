@@ -1,0 +1,19 @@
+{
+  "name": "fastbolt-docs",
+  "version": "0.0.1",
+  "description": "Hệ thống quản lý dịch vụ mua hộ hàng hóa xuyên biên giới.",
+  "main": "index.js",
+  "authors": {
+    "name": "Truong Duong",
+    "email": "duong@truongduong.me"
+  },
+  "repository": "/fastbolt-docs",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}
