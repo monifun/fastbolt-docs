@@ -1,15 +1,15 @@
 ---
 home: true
 heroImage: img/logo.png
-tagline: Hệ thống quản lý dịch vụ mua hàng hộ
-actionText: Bắt đầu →
-actionLink: /huong-dan/
+tagline: Shopping Proxy Service Management Platform
+actionText: Get Started →
+actionLink: /guide/
 features:
 - title: Open Source
-  details: Fastbolt là hệ thống được phát hành dưới dạng nguồn mở cho phép mọi người có thể sử dụng hoàn toàn miễn phí.
-- title: Hiệu suất ổn định
-  details: Xây dựng với Laravel và Vue.js đem lại hiệu suất tối đa giúp cho người dùng luôn có những trải nghiệm tốt nhất.
-- title: Giao diện thân thiện
-  details: Thiết kế responsive giúp cho website có thể tự động cân chỉnh phù hợp với từng thiết bị của người dùng.
-footer: Made by Truong Duong with ❤️
+  details: We love open-source, so we publish this platform under MIT license, and you may use it whatever you want.
+- title: Performant
+  details: Built with Laravel and Vue.js together bring high performance for your next web application.
+- title: Responsive
+  details: A responsive web design will automatically adjust for different screen sizes and viewports.
+footer: Made with ☕️ by Duong Truong
 ---

@@ -32,10 +32,12 @@ module.exports = {
     docsDir: '',
     editLinkText: '',
     lastUpdated: false,
+    displayAllHeaders: true,
+    sidebarDepth: 2,
     nav: [
       {
-        text: 'Hướng dẫn',
-        link: '/huong-dan/',
+        text: 'Guide',
+        link: '/guide/',
       },
       {
         text: 'Demo',
@@ -47,13 +49,13 @@ module.exports = {
       }
     ],
     sidebar: {
-      '/huong-dan/': [
+      '/guide/': [
         {
-          title: 'Hướng dẫn',
+          title: 'Guide',
           collapsable: false,
           children: [
             '',
-            'tinh-nang',
+            'getting-started',
           ]
         }
       ],
